@@ -10,8 +10,8 @@
 - #### :chart_with_downwards_trend: Vue, Three.js
 - #### :wrench: Ubuntu
 
-### :microscope: Stuff that I'm planning to learn:
+### :microscope: Thing that I'm planning to learn:
 - [ ] ASP.net
 
-### :alembic: Stuff that are in development:
+### :alembic: Projects that are in development:
 - #### :dizzy: [PHPMVC](https://github.com/zuxbrt/phpmvc)
