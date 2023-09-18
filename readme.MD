@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm zux</h1>
 <h3 align="center">A Full Stack developer from Sarajevo, BiH</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zuxbrt&label=Profile%20views&color=b01111&style=plastic" alt="zuxbrt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuxbrt" alt="zuxbrt" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/zuxbrt?tab=repositories](https://github.com/zuxbrt?tab=repositories)
 
 - 💬 Ask me about **PHP, Laravel, Vue**
 
-- 📫 How to reach me **zmuhovic97@gmail.com@live.com**
+- 📫 How to reach me **zmuhovic97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
