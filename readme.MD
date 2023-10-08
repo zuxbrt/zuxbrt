@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zuxbrt?tab=repositories](https://github.com/zuxbrt?tab=repositories](https://github.com/zuxbrt?tab=repositories](https://github.com/zuxbrt?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/zuxbrt?tab=repositories](https://github.com/zuxbrt?tab=repositories)
 
 - 💬 Ask me about **Laravel, Vue, PHP, Javascript, HTML**
 
