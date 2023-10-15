@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm zux</h1>
 <h3 align="center">A Full Stack developer from Sarajevo, BiH</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React & Node**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zuxbrt?tab=repositories](https://github.com/zuxbrt?tab=repositories)
 
