@@ -13,7 +13,7 @@ class About extends Me
         return $total->y;
     }
 
-    public function getLocation(): array
+    public function basedIn(): array
     {
         return [
             'country' => 'Bosnia and Herzegovina',
@@ -21,7 +21,7 @@ class About extends Me
         ];
     }
 
-    public function getCurrentWorkplace(): array
+    public function currentlyWorkingAt(): array
     {
         return [
             'company' => 'Purplekey',
@@ -41,7 +41,7 @@ class About extends Me
 
     public function goals(): string
     {
-        return 'to learn more and expand my stack';
+        return 'learn more and expand my knowledge and my current stack';
     }
 }
 ```
