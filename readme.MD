@@ -5,7 +5,7 @@ namespace zuxbrt;
 
 class About extends Me
 {
-    public function yearsOfExperience(): string
+    public function yearsOfExperience(): integer
     {
         $started = new DateTime("2018-05-01");
         $today = new DateTime();
