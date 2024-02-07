@@ -48,7 +48,7 @@ class About extends Me
 
 ```javascript
 const jsSkills = { 
-  frameworksAndLibraries: "React", "NuxtJS", "ThreeJs", "EmberJs" 
+  frameworksToolsAndLibraries: "React", "NuxtJS", "VueJs", "ThreeJs", "EmberJs", "Node"
   expandingKnowledgeAbout: "Typescript", "React"
 }
 ```
